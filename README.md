@@ -6,7 +6,7 @@ The sign language digits based on hand gestures have been utilized in various ap
 
 # Dataset
 The dataset consists of 3200 thermal images, 320 images per class. One sample image from each class is shown below. 
-| ![alt-text] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_0.png) | ![alt-text] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_1.png) |
+| ![alt-text](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_0.png) | ![alt-text](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_1.png) |
 | ![] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_2.png) | ![] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_3.png) |
 | ![] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_4.png) | ![] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_5.png) |
 | ![] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_6.png) | ![] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_7.png) |
@@ -17,11 +17,11 @@ To get access to the entire dataset please contact the author mentioned below.
 # Model Architecture
 We develop a CNN model to classify the thermal images. The model architecture is shown below.
 
-| ![alt-text] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/model/model_arch.png) |
+| ![alt-text](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/model/model_arch.png) |
 # Results
 The model was able to achieve an accuracy of 99.52% on test dataset. The accuracy plot of training and validation is shown below.
 
-| ![] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/accuracy/acc_plot.png) |
+| ![](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/accuracy/acc_plot.png) |
 
 # How to run
 All the code necessary to create and train the model is presented in the main.py file. The trained model can be accesed here https://drive.google.com/file/d/1-0YoSzpZZXgZQhd4F3dwLSlmaQ2ol2_J/view?usp=sharing . 
