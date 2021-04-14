@@ -6,11 +6,12 @@ The sign language digits based on hand gestures have been utilized in various ap
 
 # Dataset
 The dataset consists of 3200 thermal images, 320 images per class. One sample image from each class is shown below. 
-| ![alt-text](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_0.png) | ![alt-text](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_1.png) |
-| ![] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_2.png) | ![] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_3.png) |
-| ![] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_4.png) | ![] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_5.png) |
-| ![] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_6.png) | ![] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_7.png) |
-| ![] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_8.png) | ![] (https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_9.png) |
+
+| ![](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_0.png) | ![](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_1.png) |
+| ![](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_2.png) | ![](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_3.png) |
+| ![](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_4.png) | ![](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_5.png) |
+| ![](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_6.png) | ![](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_7.png) |
+| ![](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_8.png) | ![](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_9.png) |
 
 To get access to the entire dataset please contact the author mentioned below.
 
