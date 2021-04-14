@@ -13,7 +13,7 @@ The dataset consists of 3200 thermal images, 320 images per class. Each image is
 | ![](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_6.png) | ![](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_7.png) 
 | ![](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_8.png) | ![](https://github.com/aveen-d/thermal_image_recognition/blob/main/images/dataset/image_9.png)
 
-| Class 0| Class 1| Class 2| Class 3| Class 4| Class 5| Class 6| Class 7| Class 8| Class 9|
+| Class 0|  1|  2|  3|  4|  5|  6|  7|  8|  9|
 
 To get access to the entire dataset please contact the author mentioned below.
 
